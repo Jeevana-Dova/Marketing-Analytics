@@ -13,8 +13,7 @@ We investigated:
 
 ## Project Files
 - `project.R`: Complete R script with data cleaning, ANOVA tests, Kruskal-Wallis, Tukey HSD, regression analysis, and all plots.
-- `Project_ANOVA_Test.docx`: Summary report covering statistical tests, interpretation, and effect size analysis.
-- `BIA_672_Final_Presenation.pptx`: Final slides presenting key findings, graphs, PCA, and recommendations.
+- `Project Presenation.pptx`: Final slides presenting key findings, graphs, PCA, and recommendations.
 
 ## Key Techniques
 - **One-Way & Two-Way ANOVA**
