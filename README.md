@@ -1,15 +1,20 @@
 # Airbnb Occupancy Analysis – Paris
-
 This project explores Airbnb occupancy trends in Paris, focusing on how **neighborhood** and **room type** affect booking rates. It uses statistical tests, regression modeling, and visualizations, all implemented in R.
 
 ## Overview
-
 We investigated:
 - Do occupancy rates differ by neighborhood?
 - Does room type performance vary across locations?
 - How do price, location, and competition affect occupancy?
 
-**Data Source:** Inside Airbnb (public scraped data)
+## Dataset Source
+The dataset used in this project was downloaded from [Inside Airbnb](https://insideairbnb.com/), a publicly available data platform that provides detailed listings scraped from Airbnb’s website.
+
+Specifically, we used:
+- **City**: Paris, France
+- **File**: `listings.csv` (detailed listing data including availability, price, location, room type, etc.)
+
+Inside Airbnb is a valuable open dataset for analyzing trends in short-term rentals across global cities.
 
 ## Project Files
 - `project.R`: Complete R script with data cleaning, ANOVA tests, Kruskal-Wallis, Tukey HSD, regression analysis, and all plots.
