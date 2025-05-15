@@ -17,7 +17,13 @@ Specifically, we used:
 Inside Airbnb is a valuable open dataset for analyzing trends in short-term rentals across global cities.
 
 ## Project Files
-- `project.R`: Complete R script with data cleaning, ANOVA tests, Kruskal-Wallis, Tukey HSD, regression analysis, and all plots.
+- `project.R`: Complete R script with data cleaning, ANOVA tests, Kruskal-Wallis, Tukey HSD, and plots.
+
+- `Project_Regression.R`: This script answers key research questions using regression models:
+  - How does **price** affect **occupancy rate**?
+  - Does **proximity to attractions** (like the Eiffel Tower) increase bookings?
+  - Does **competition** (host saturation) reduce performance?
+
 - `Project Presenation.pptx`: Final slides presenting key findings, graphs, PCA, and recommendations.
 
 ## Key Techniques
