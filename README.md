@@ -30,6 +30,7 @@ Inside Airbnb is a valuable open dataset for analyzing trends in short-term rent
 - **One-Way & Two-Way ANOVA**
 - **Levene’s Test & Kruskal-Wallis**
 - **Tukey’s HSD for Post-hoc**
+- **Linear Regression**
 - **Beta Regression & Negative Binomial Regression**
 - **Principal Component Analysis (PCA)**
 - **Boxplots, Interaction Plots, Heatmaps, Q-Q Plots**
