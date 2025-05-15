@@ -46,11 +46,21 @@ Inside Airbnb is a valuable open dataset for analyzing trends in short-term rent
 - Target high-demand, low-supply areas (e.g., Élysée).
 - Use pricing elasticity and review frequency to adjust listing strategy.
 
----
-
 ## Requirements
 - R 4.x
 - Libraries: `ggplot2`, `dplyr`, `ggpubr`, `rstatix`, `car`, `data.table`
+- install.packages(c("ggplot2", "dplyr", "ggpubr", "rstatix", "car", "data.table"))
+  
+---
 
-```r
-install.packages(c("ggplot2", "dplyr", "ggpubr", "rstatix", "car", "data.table"))
+## How to Run
+
+Open the `.R` files in **RStudio**
+
+Run the code sections sequentially
+
+Make sure your dataset (`listings.csv`) is downloaded from Inside Airbnb and updated with the correct file path
+
+Outputs will include statistical summaries, plots, and regression results
+
+
